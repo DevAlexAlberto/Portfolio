@@ -79,8 +79,7 @@ body {
         padding-top: 0;
         padding-left: 35.33%;
     }
-    .navbar .navbar-brand .circulo{
-        border-radius: 50%;
+    .navbar .navbar-brand .rounded-circle{
         width: 110px;
         height: 110px;
     }
